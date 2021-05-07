@@ -14,6 +14,8 @@ social:
     url: https://www.crunchbase.com/person/duncan-hart-375c
   - platform: RSS
     url: https://duncanhart.com/feed.xml
+  - platform: Schedule a meeting
+    url: https://calendso.com/duncanhart
 # General settings
 url: https://duncanhart.com/
 plugins:
