@@ -17,7 +17,7 @@ social:
   - platform: Schedule a meeting
     url: https://calendso.com/duncanhart
   - platform: Microblog
-    url: https://microblog.duncanhart.com
+    url: https://micro.duncanhart.com
 # General settings
 url: https://duncanhart.com/
 plugins:
