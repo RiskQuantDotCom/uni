@@ -22,6 +22,8 @@ social:
     url: https://duncanhart.org/
   - platform: Matrix
     url: https://app.element.io/#/room/#matrix:matrix.org
+  - platform: Pinboard
+    url: https://pinboard.in/u:duncanhart
 # General settings
 url: https://duncanhart.com/
 plugins:
