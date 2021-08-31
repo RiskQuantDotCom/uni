@@ -20,6 +20,8 @@ social:
     url: https://micro.duncanhart.com
   - platform: Duncan Hart
     url: https://duncanhart.org/
+  - platform: Matrix
+    url: https://app.element.io/#/room/#matrix:matrix.org
 # General settings
 url: https://duncanhart.com/
 plugins:
