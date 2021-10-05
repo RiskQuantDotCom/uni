@@ -8,8 +8,6 @@ social:
     url: https://twitter.com/duncanhart
   - platform: XMPP
     url: xmpp:dah@xmpp.partners
-  - platform: LinkedIn
-    url: https://linkedin.com/in/duncanhart
   - platform: Schedule a meeting
     url: https://cal.com/duncanhart
   - platform: Microblog
