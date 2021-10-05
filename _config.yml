@@ -10,20 +10,10 @@ social:
     url: xmpp:dah@xmpp.partners
   - platform: LinkedIn
     url: https://linkedin.com/in/duncanhart
-  - platform: CrunchBase
-    url: https://www.crunchbase.com/person/duncan-hart-375c
-  - platform: RSS
-    url: https://duncanhart.com/feed.xml
   - platform: Schedule a meeting
-    url: https://calendso.com/duncanhart
+    url: https://cal.com/duncanhart
   - platform: Microblog
     url: https://micro.duncanhart.com
-  - platform: Duncan Hart
-    url: https://duncanhart.org/
-  - platform: Matrix
-    url: https://app.element.io/#/room/#matrix:matrix.org
-  - platform: Pinboard
-    url: https://pinboard.in/u:duncanhart
 # General settings
 url: https://duncanhart.com/
 plugins:
