@@ -4,8 +4,6 @@ content: Hello, how are you? I'm <a href="https://linkedin.com/in/duncanhart">Du
 social:
   - platform: Email me
     url: mailto:007@duncanhart.com
-  - platform: XMPP
-    url: xmpp:dah@xmpp.partners
   - platform: Schedule a meeting
     url: https://cal.com/duncanhart
 # General settings
