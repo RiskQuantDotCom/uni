@@ -2,16 +2,12 @@ title: Duncan Hart - The world is changing and the parts that aren't no longer i
 description:  The personal website of Duncan Hart - Neophile / Systems thinker / Nerd.
 content: Hello, how are you? I'm <a href="https://linkedin.com/in/duncanhart">Duncan Hart</a>, it's good to meet you. I'm a senior risk, cyber security & systems thinking specialist. I have significant experience in multiple industries and multiple geographies - from in depth engineering to Board-level management. I'm the Founder and Managing Partner of <a href="https://cyberriskquant.com">Cyber Risk Quant</a>, a specialist in cyber security risk and performance measurement. I have a great passion for the paintings of L.S. Lowry. 
 social:
-  - platform: Mastodon
-    url: https://mastodon.duncanhart.com/@duncanhart
-  - platform: Twitter
-    url: https://twitter.com/duncanhart
+  - platform: Email me
+    url: mailto:007@duncanhart.com
   - platform: XMPP
     url: xmpp:dah@xmpp.partners
   - platform: Schedule a meeting
     url: https://cal.com/duncanhart
-  - platform: Microblog
-    url: https://micro.duncanhart.com
 # General settings
 url: https://duncanhart.com/
 plugins:
