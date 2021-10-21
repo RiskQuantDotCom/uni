@@ -6,6 +6,8 @@ social:
     url: mailto:007@duncanhart.com
   - platform: Schedule a meeting
     url: https://cal.com/duncanhart
+  - platform: Call me
+    url: tel:+12122014118
 # General settings
 url: https://duncanhart.com/
 plugins:
